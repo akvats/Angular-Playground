@@ -1,4 +1,4 @@
-export class Hero
+export class HERO
 {
     id:number;
     name:string;
